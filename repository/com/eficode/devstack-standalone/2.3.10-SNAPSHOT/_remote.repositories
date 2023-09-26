@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 26 16:35:22 UTC 2023
+devstack-standalone-2.3.10-SNAPSHOT-sources.jar>=
+devstack-standalone-2.3.10-SNAPSHOT-test-sources.jar>=
+devstack-standalone-2.3.10-SNAPSHOT.jar>=
+devstack-standalone-2.3.10-SNAPSHOT.pom>=
