@@ -3,7 +3,7 @@
   <groupId>com.eficode</groupId>
   <artifactId>devstack-standalone</artifactId>
   <versioning>
-    <lastUpdated>20230926163457</lastUpdated>
+    <lastUpdated>20230927103209</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -12,23 +12,23 @@
         <classifier>test-sources</classifier>
         <extension>jar</extension>
         <value>2.3.10-SNAPSHOT</value>
-        <updated>20230926163457</updated>
+        <updated>20230927103209</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
         <value>2.3.10-SNAPSHOT</value>
-        <updated>20230926163457</updated>
+        <updated>20230927103209</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>2.3.10-SNAPSHOT</value>
-        <updated>20230926163457</updated>
+        <updated>20230927103209</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>2.3.10-SNAPSHOT</value>
-        <updated>20230926163457</updated>
+        <updated>20230927103209</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
